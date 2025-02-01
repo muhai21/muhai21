@@ -13,7 +13,7 @@ I'm currently a Computer Science and Engineering student with a passion for soft
 
 **📚 Interests:** Algorithm design, data structures, and learning new programming languages.
 
-**🌐 Skills:** Proficient in C, C++, and Java. Familiar with web development.
+**🌐 Skills:** Proficient in C, C++, and Javascript. Familiar with web development.
 <!---
 muhai21/muhai21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
