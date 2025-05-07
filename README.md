@@ -5,7 +5,7 @@ I'm currently a Computer Science and Engineering student with a passion for soft
 
 **About Me:**
 
-**🏫 Education:** Pursuing a degree in Computer Science and Engineering.
+**🏫 Education:** Pursuing B.Sc. in Computer Science and Engineering in Jahangirnagar University.
 
 **💻 Passion:** Software Development and Competitive Programming.
 
