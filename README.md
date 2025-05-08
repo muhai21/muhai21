@@ -1,20 +1,42 @@
-******Hi, I'm Muhaimin Kamran 👋******
+# Hi there, I'm Muhaimin Kamran 👋
 
+🎓 **Undergrad CSE student** at **Jahangirnagar University**  
+🌱 Currently learning **Object-Oriented Programming (OOP)**, **Data Structures**, and **LaTeX**  
+💻 Comfortable with **C**, **C++**, and **Python**
 
-I'm currently a Computer Science and Engineering student with a passion for software development. My goal is to become a proficient Software Engineer. Right now, I'm actively engaging in competitive programming (CP) to sharpen my problem-solving skills and deepen my understanding of algorithms and data structures.
+---
 
-**About Me:**
+## ⚡ About Me
 
-**🏫 Education:** Pursuing B.Sc. in Computer Science and Engineering in Jahangirnagar University.
+- 📖 Avid reader and lifelong learner  
+- 🏃 Love **running** and **roaming** around nature  
+- 📚 Enjoy reading books on tech, life, and everything in between  
+- 🎯 Aspiring to become a **good human** and a skilled **software engineer**
 
-**💻 Passion:** Software Development and Competitive Programming.
+---
 
-**🚀 Goal:** To become a Software Engineer.
+## 🔧 Tech Stack
 
-**📚 Interests:** Algorithm design, data structures, and learning new programming languages.
+- Languages: `C`, `C++`, `Python`  
+- Tools: `VS Code`, `Git`, `Overleaf`
 
-**🌐 Skills:** Proficient in C, C++, and Javascript. Familiar with web development.
-<!---
-muhai21/muhai21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📊 GitHub Stats
+
+![Muhaimin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhai21&show_icons=true&theme=default)  
+![Muhaimin's GitHub Streak](https://streak-stats.demolab.com?user=muhai21&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhai21&layout=compact)
+
+---
+
+## 🌐 Let's Connect!
+
+- 🔗 **GitHub:** [muhai21](https://github.com/muhai21)  
+- 🔗 **LinkedIn:** [Muhaimin Kamran](https://www.linkedin.com/in/muhaiminkamran/)  
+- 🔗 **Codeforces:** [_GUARD1AN](https://codeforces.com/profile/_GUARD1AN)  
+
+---
+
+> _“And, when you want something, all the universe conspires in helping you to achieve it.”_  
+> — *Paulo Coelho, The Alchemist*
