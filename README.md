@@ -24,12 +24,14 @@
 
 ## 📊 GitHub Stats
 
-![Muhaimin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhai21&show_icons=true&theme=dark)  
-![Muhaimin's GitHub Streak](https://streak-stats.demolab.com?user=muhai21&theme=dark)  
+![Muhaimin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhai21&show_icons=true&theme=dark)
+
+![Muhaimin's GitHub Streak](https://streak-stats.demolab.com?user=muhai21&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhai21&layout=compact&theme=dark)
 
-
 ---
+
 
 ## 🌐 Let's Connect!
 
